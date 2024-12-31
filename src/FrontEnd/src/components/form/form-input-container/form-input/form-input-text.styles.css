@@ -1,0 +1,6 @@
+.form-input-text {
+    min-height: 40px;
+    padding-left: 10px;
+    border-radius: 7px;
+    border: 1px solid rgb(197, 192, 192);
+}

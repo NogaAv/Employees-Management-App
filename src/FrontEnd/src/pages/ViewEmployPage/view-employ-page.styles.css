@@ -1,0 +1,38 @@
+.main-page {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100vw;
+    max-height: calc(100vh - 80px);
+}
+
+.back-link {
+    text-decoration: none;
+    color: blue;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 18px;
+    font-size: 20px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    min-width: 500px;
+}
+
+ul {
+    list-style: none;
+    padding-inline-start: 0px;
+
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}

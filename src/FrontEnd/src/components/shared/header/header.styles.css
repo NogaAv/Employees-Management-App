@@ -1,0 +1,20 @@
+.title-link {
+    text-decoration: none;
+    color: white
+}
+
+.main-header {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100vw;
+    height: 80px;
+    padding: 16px;
+
+    background-color: #1d1d1f;
+    color: white;
+
+
+}
