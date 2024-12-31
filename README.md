@@ -2,6 +2,7 @@
 Employees management app made using react at frontend and Java at backend
 
 
+<img width="367" alt="Employees-List-Page" src="https://github.com/user-attachments/files/18281495/Employees-List-Page.Home.pdf" />
 
 (https://github.com/user-attachments/files/18281495/Employees-List-Page.Home.pdf)
 
