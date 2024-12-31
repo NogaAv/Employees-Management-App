@@ -1,5 +1,5 @@
 # Employees-Management-App
-# Employees management app made using react at frontend and Java sprint-boot at backend
+## Employees management app made using react at frontend and Java sprint-boot at backend
 -
 
 ![Employees-Management-App_Home-Page](https://github.com/user-attachments/assets/cdcf3328-454c-43cb-905d-2575c6bdcc39)
